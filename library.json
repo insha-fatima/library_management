@@ -1,0 +1,39 @@
+[
+  {
+    "title": "python crash course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre": "programming",
+    "read_status": false,
+    "added_data": "2025-03-28 8:39:20"
+  },
+  {
+    "title": "head first python",
+    "author": "Paul Barry",
+    "publication_year": 2016,
+    "genre": "programming",
+    "read_status": true,
+    "added_data": "2025-03-28 8:41:50"
+  },
+  {
+    "title": "fluent python",
+    "author": "Luciano Ramalho",
+    "publication_year": 2022,
+    "genre": "programming",
+    "read_status": false,
+    "added_data": "2025-03-28 8:45:55"
+  },
+  {
+    "title": "a byte of python",
+    "author": "Swaroop",
+    "publication_year": 2013,
+    "genre": "programming",
+    "read_status": true,
+    "added_data": "2025-03-28 8:50:59"
+  },
+]
+    
+    
+    
+    
+    
